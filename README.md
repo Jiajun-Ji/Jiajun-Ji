@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=jjj7811&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/jjj7811/count.svg)
+#![Visitor Count](https://profile-counter.glitch.me/jjj7811/count.svg)
 
 
 <!--
