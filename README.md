@@ -38,7 +38,7 @@ Research Interests:
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
-
+</td><td valign="top" width="33%">
 
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jjj7811&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
