@@ -4,8 +4,8 @@
 
 -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&center=true&repeat=false&width=500&height=60&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+to+my+Repo" align="center" height="" width="600" 
-</div>  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&center=true&repeat=false&width=500&height=60&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+to+my+Repo" align="center" height="" width="600" />
+</div>
   
 
 ### <div align="center">Hi, I'm Ji Jiajun, a CS Master's student @ USTC, from High Energy-Efficient Intelligent Computing Lab.👀</div>  
