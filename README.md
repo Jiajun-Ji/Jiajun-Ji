@@ -1,9 +1,9 @@
 <!--
 ## Hi there 👋
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+to+my+Repo)](https://git.io/typing-svg)👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+to+my+Repo)](https://git.io/typing-svg)
 
-![](https://github-readme-stats.vercel.app/api?username=jjj7811&show_icons=true&theme=transparent)
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={jjj7811}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjj7811&layout=compact&theme=tokyonight)
 
