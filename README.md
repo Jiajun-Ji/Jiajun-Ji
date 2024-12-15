@@ -7,8 +7,15 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjj7811&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=jjj7811&theme=dracula)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,matlab,py,pytorch,raspberrypi,verilog" />
+  </a>
+</p>
 
+<!--
+![](https://github-readme-activity-graph.cyclic.app/graph?username=jjj7811&theme=dracula)
+-->
 
 <!--
 **jjj7811/jjj7811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
