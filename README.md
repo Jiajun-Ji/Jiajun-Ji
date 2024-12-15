@@ -29,7 +29,6 @@ Research Interests:
 
 
 ## My Skill Set  
-<table><tr><td valign="top">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,linux,matlab,py,pytorch,raspberrypi,verilog" />
@@ -44,10 +43,7 @@ Research Interests:
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 -->
-
-</td></tr></table>  
-
-<br/>   
+  
 
 <div align="center">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jjj7811&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
