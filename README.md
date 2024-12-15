@@ -1,6 +1,6 @@
 <!--
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=500&pause=1000&center=true&repeat=false&width=500&height=60&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+to+my+Repo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=500&pause=1000&center=true&repeat=false&width=500&height=60&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+!)](https://git.io/typing-svg)
 
 -->
 <div align="center">
@@ -11,7 +11,7 @@
 ### <div align="center">Hi, I'm Ji Jiajun, a CS Master's student @ USTC, from High Energy-Efficient Intelligent Computing Lab.👀</div>  
   
 
-Research Interests:  
+**Research Interests:**  
   
 
 - 🍲 AI System, HPC  
