@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=jjj7811&show_icons=true&theme=transparent)
-#![Visitor Count](https://profile-counter.glitch.me/jjj7811/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjj7811&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=jjj7811&theme=dracula)
 
 
 <!--
