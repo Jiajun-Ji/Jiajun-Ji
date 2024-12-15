@@ -4,7 +4,7 @@
 
 -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+to+my+Repo)](https://git.io/typing-svg" align="center" height="" width="600" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&center=true&repeat=false&width=500&height=60&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+to+my+Repo)](https://git.io/typing-svg)
 </div>  
   
 
