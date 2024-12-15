@@ -58,12 +58,6 @@ Research Interests:
 -->
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,matlab,py,pytorch,raspberrypi,verilog" />
-  </a>
-</p>
-
 <!--
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=jjj7811&theme=dracula)
 -->
