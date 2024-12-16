@@ -35,6 +35,10 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,linux,matlab,py,pytorch,raspberrypi,verilog" />
   </a>
 </p>
+
+![Static Badge](https://img.shields.io/badge/QQ-2356765453-blue)
+![Static Badge](https://img.shields.io/badge/Email-jiajunji_ee%40163.com-92bf7a)
+
 <!--
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
