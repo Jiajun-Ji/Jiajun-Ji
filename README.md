@@ -8,7 +8,7 @@
 </div>
   
 
-### <div align="center">Hi, I'm Ji Jiajun, a CS Master's student @ USTC, from High Energy-Efficient Intelligent Computing Lab.👀</div>  
+### <div align="center">Hi, I'm Jiajun Ji, a CS Master's student @ USTC, from High Energy-Efficient Intelligent Computing Lab.👀</div>  
   
 
 **Research Interests:**  
