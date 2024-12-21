@@ -4,7 +4,7 @@
 
 -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&center=true&repeat=false&width=500&height=60&lines=Hi%2C+I+am+JiaJun+Ji%2C+welcome+to+my+Repo" align="center" height="" width="600" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&center=true&repeat=false&width=500&height=60&lines=Hi%2C+I+am+Jiajun+Ji%2C+welcome+to+my+Repo" align="center" height="" width="600" />
 </div>
   
 
