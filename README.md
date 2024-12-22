@@ -10,10 +10,13 @@
 
 ### <div align="center">Hi, I'm Jiajun Ji, a CS Master's student @ USTC, from High Energy-Efficient Intelligent Computing Lab.👀</div>  
 
-<div align="center" style="margin-top: 20px; margin-bottom: 80px;">
+<br>
+
+<div align="center">
     You can click this link to view 📝<a href="https://jiajun-ji.github.io/">My Personal Homepage</a> 👈.
 </div>
 
+<br>
 
 ## Research Interests: 
   
