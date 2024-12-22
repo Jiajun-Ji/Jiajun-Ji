@@ -10,13 +10,15 @@
 
 ### <div align="center">Hi, I'm Jiajun Ji, a CS Master's student @ USTC, from High Energy-Efficient Intelligent Computing Lab.👀</div>  
 
+<br><br> <!-- 添加两个换行符来增加间距 -->
+
 <div align="center">
     You can click this link to view 📝<a href="https://jiajun-ji.github.io/">My Personal Homepage</a> 👈.
 </div>
 
+<br><br> <!-- 添加两个换行符来增加间距 -->
 
-
-**Research Interests:**  
+## Research Interests: 
   
 
 - 🍲 AI System, HPC  
